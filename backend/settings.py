@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     'result',
     'story',
     'user',
+    'greatslist',
 ]
 
 MIDDLEWARE = [
